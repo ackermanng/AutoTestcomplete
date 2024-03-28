@@ -8,12 +8,12 @@
 	<config language="{897793E3-73F3-4895-A956-3D41D3A24A45}" />
 	<testItems key="{A34480DE-DF5F-4429-AB97-4CEBFCA50317}" version="14">
 		<children>
-			<testItem name="Test1" key="{1339A10D-F716-4A07-BCBA-4092D568C1C0}" group="False" parallel="False" enabled="True" testMoniker="KDT\{4E22C5C6-41DD-402B-9020-1CC013ACC418}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Test1" key="{1339A10D-F716-4A07-BCBA-4092D568C1C0}" group="False" parallel="False" enabled="True" testMoniker="KDT\{4E22C5C6-41DD-402B-9020-1CC013ACC418}" count="1" timeout="0" stopOnError="0" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
-			<testItem name="Testwrong" key="{A7101513-98E0-424D-839F-94DFFA554E4E}" group="False" parallel="False" enabled="True" testMoniker="KDT\{9FDFF390-8513-41EE-B52C-FE345B5D32B4}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Testwrong" key="{A7101513-98E0-424D-839F-94DFFA554E4E}" group="False" parallel="False" enabled="True" testMoniker="KDT\{9FDFF390-8513-41EE-B52C-FE345B5D32B4}" count="1" timeout="0" stopOnError="0" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />
