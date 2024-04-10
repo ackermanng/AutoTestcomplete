@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{8A5B6858-4F4C-4F60-8178-2CB0D49268A2}">
+				<TypeInfo Item0="{8303A8F3-7F73-4651-A20F-E78AD2935331}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="win32calc" Key="{13BE8BA7-0D00-41AC-B0C9-CB3D6578FE2E}">
+						<TypeInfo Item0="{B8FAC315-B260-434A-A59A-57A718F8B0B2}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="win32calc" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndCalculator" Key="{A8094284-273B-4EA4-8483-2556AF292EBF}">
+								<Image FileName="760285279" Left="0" Top="0" Right="228" Bottom="323" />
+								<TypeInfo Item0="{62D43D9E-43AE-45BD-8891-D3D180C4A744}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="CalcFrame" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Calculator" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="CalcFrame" Key="{1A2D93EA-0045-4E10-8561-3E8047D3EE44}">
+										<Image FileName="760285279" Left="8" Top="51" Right="220" Bottom="315" />
+										<TypeInfo Item0="{6B66B700-25BF-45E4-86EA-23AAAE8263D8}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="CalcFrame" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="page32770" Key="{CC0F8DF9-0CCB-46A0-B4F0-5F9601899EA3}">
+												<Image FileName="760285279" Left="19" Top="61" Right="209" Bottom="111" />
+												<TypeInfo Item0="{6B66B700-25BF-45E4-86EA-23AAAE8263D8}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="#32770" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Item" Key="{71F879F0-504F-400C-B899-249E13771A26}">
+														<Image FileName="760285279" Left="37" Top="76" Right="204" Bottom="104" />
+														<TypeInfo Item0="{6B66B700-25BF-45E4-86EA-23AAAE8263D8}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Static" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="24" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="Item2" Key="{913CB16B-EBD5-4C28-B800-16E0C0EA3380}">
+														<Image FileName="1991345187" Left="37" Top="76" Right="204" Bottom="104" />
+														<TypeInfo Item0="{6B66B700-25BF-45E4-86EA-23AAAE8263D8}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Static" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="72" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="page327702" Key="{727C869D-4311-4997-9203-F639A99550DF}">
+												<Image FileName="1663630207" Left="19" Top="116" Right="209" Bottom="307" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="#32770" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="2" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btn" Key="{B0FD6851-89B3-4404-9C8F-A54883BFDE58}">
+														<Image FileName="1663630207" Left="19" Top="212" Right="53" Bottom="239" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="4" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btn2" Key="{4121CCDD-0633-4A1C-873C-0902F19604F3}">
+														<Image FileName="106022661" Left="136" Top="212" Right="170" Bottom="239" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="21" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btn3" Key="{E47B45C5-415F-438B-8AFA-7D396FDCFED2}">
+														<Image FileName="-1187106137" Left="97" Top="212" Right="131" Bottom="239" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="15" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btn4" Key="{44E3B6C2-9E61-411C-97AB-92CACD474C7C}">
+														<Image FileName="1962394297" Left="175" Top="244" Right="209" Bottom="303" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="28" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btn5" Key="{63DC53B0-73B1-43C0-BF8A-C39CF3A93CC8}">
+														<Image FileName="578429900" Left="97" Top="148" Right="131" Bottom="175" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="13" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btn6" Key="{C875C1D5-72E1-408B-8F9F-F35057D5E786}">
+														<Image FileName="-71135144" Left="97" Top="180" Right="131" Bottom="207" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="14" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btn7" Key="{F3A045B5-B564-4761-8A84-5977B806354B}">
+														<Image FileName="-143131889" Left="136" Top="276" Right="170" Bottom="303" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="23" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btn8" Key="{66654A36-32FF-449C-9FFB-922E5E20C91E}">
+														<Image FileName="-1516734363" Left="97" Top="244" Right="131" Bottom="271" />
+														<TypeInfo Item0="{802D8AA3-809A-47A3-92C8-D4E36DD2E62D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="16" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{4D74ECBF-09C2-4BD7-89DB-716B8F157AAC}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{E5DAF689-5D0F-4C7A-A61B-A4D067237E76}">
+								<Image FileName="64173080" Left="0" Top="0" Right="1580" Bottom="665" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageIndex" Key="{5CDEC580-AAB9-4555-B856-51F4069436BF}">
+								<Image FileName="-316329779" Left="12" Top="156" Right="1528" Bottom="653" />
+								<TypeInfo Item0="{8F2381A6-D692-4860-990D-840F2E52FEB0}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="file:///C:/TEST/Showcase_Gui/index.html" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formFlogin" Key="{B33B311E-2517-4B12-8752-AC4713452538}">
+										<Image FileName="620392772" Left="16" Top="96" Right="978" Bottom="371" />
+										<Selectors>
+											<Selector>
+												<Value Value="#flogin" />
+											</Selector>
+											<Selector>
+												<Value Value="form[contains(., &apos;Login:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="form[@action=&apos;anlegen.html&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxBenutzer" Key="{FA8E1880-4AC5-4241-939D-BD4C8622899B}">
+										<Image FileName="620392772" Left="431" Top="297" Right="643" Bottom="318" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#benutzer" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;benutzer&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPasswort" Key="{221A006D-9EE3-4E77-8358-49439BB109DE}">
+										<Image FileName="-134518291" Left="431" Top="322" Right="657" Bottom="343" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#passwort" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;passwort&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[2]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="submitbuttonLogin" Key="{8753F450-11A5-4D1D-82B6-95FC9A9A6C30}">
+										<Image FileName="-1073394092" Left="608" Top="347" Right="657" Bottom="368" />
+										<TypeInfo Item0="{E9321B72-9A40-4582-8FD7-C28EB05A4A2E}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#login" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@value=&apos;Login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageAnlegen" Key="{0A8CBA81-EA83-485E-AD48-A009133E9BA7}">
+								<Image FileName="-316329779" Left="12" Top="156" Right="1528" Bottom="653" />
+								<TypeInfo Item0="{8F2381A6-D692-4860-990D-840F2E52FEB0}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="file:///C:/TEST/Showcase_Gui/anlegen.html" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formKundenanlegen" Key="{E3FACF21-69B8-4DC9-9FCB-9D29623A4CD2}">
+										<Image FileName="1516275740" Left="16" Top="96" Right="978" Bottom="618" />
+										<Selectors>
+											<Selector>
+												<Value Value="#kundenanlegen" />
+											</Selector>
+											<Selector>
+												<Value Value="form[contains(., &apos;Kunden anlegen:&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="selectAnrede" Key="{48FA313F-8BF7-497C-AFBD-A5AF4F6D5AFE}">
+										<Image FileName="1516275740" Left="391" Top="297" Right="443" Bottom="316" />
+										<TypeInfo Item0="{2445ABC5-D7E0-4B81-B96D-860EF272947B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#anrede" />
+											</Selector>
+											<Selector>
+												<Value Value="//select[@name=&apos;anrede&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr/td/select" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxNachname" Key="{C306C331-1D07-452D-8048-F19C6A091294}">
+										<Image FileName="-1922341312" Left="391" Top="343" Right="708" Bottom="364" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#nachname" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;nachname&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td/input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxVorname" Key="{4DF866AD-FD7E-41CA-8D5A-250413832360}">
+										<Image FileName="-1843068011" Left="391" Top="368" Right="708" Bottom="389" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#vorname" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;vorname&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[4]/td/input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[4]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxStrasse" Key="{F04FCA6F-81FA-442B-8520-25170377568C}">
+										<Image FileName="874047470" Left="391" Top="418" Right="708" Bottom="439" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#strasse" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;strasse&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[6]/td/input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[6]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxPlz" Key="{B7D2A70B-13E9-4B55-84FD-81D3B12D12E6}">
+										<Image FileName="474512603" Left="391" Top="444" Right="463" Bottom="465" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#plz" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;plz&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxOrt" Key="{F59C6B84-23C0-4DDA-B2D9-50A89C196821}">
+										<Image FileName="1440811934" Left="485" Top="444" Right="704" Bottom="465" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#ort" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;ort&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxLand" Key="{7E334C2A-922D-41F6-84E0-95E6FFF50AA2}">
+										<Image FileName="715956550" Left="391" Top="469" Right="708" Bottom="490" />
+										<TypeInfo Item0="{4DF5AADF-0E69-4C45-BAC9-2B3EC20E38DC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#land" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;land&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[8]/td/input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[8]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonKundenAnlegen" Key="{F01C4FDF-CFC3-47E0-B3AC-B50B4C8AA727}">
+										<Image FileName="1767739474" Left="595" Top="594" Right="708" Bottom="615" />
+										<TypeInfo Item0="{E9321B72-9A40-4582-8FD7-C28EB05A4A2E}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#anlegen" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;anlegen&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@value=&apos;Kunden anlegen&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[13]/td/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndChrome_WidgetWin_1" Key="{CD0B3E90-B437-40A5-AA8B-671AF71F6335}">
+								<Image FileName="-490816891" Left="0" Top="0" Right="50" Bottom="52" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{AF422879-2207-4E01-B03B-68A35C438F52}">
+										<Image FileName="-490816891" Left="0" Top="0" Right="50" Bottom="52" />
+										<TypeInfo Item0="{161EC7E7-DE00-4362-8C88-3E9CED5C918B}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageAngelegt" Key="{8B4C2848-BE01-43D1-B946-09AFC69DFF02}">
+								<Image FileName="759329438" Left="8" Top="88" Right="986" Bottom="900" />
+								<TypeInfo Item0="{8F2381A6-D692-4860-990D-840F2E52FEB0}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="file:///C:/TEST/Showcase_Gui/angelegt.html" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="buttonLogout" Key="{53948AC8-DBE2-4BA8-94E0-EF012E84C37D}">
+										<Image FileName="848927273" Left="589" Top="332" Right="646" Bottom="353" />
+										<TypeInfo Item0="{E9321B72-9A40-4582-8FD7-C28EB05A4A2E}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#logout" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;logout&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@value=&apos;Logout&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//td[2]/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="chrome" Key="{C6F201CB-A76F-4A88-A5A3-6CC4A7190EA7}">
+						<TypeInfo Item0="{634F8EA6-164E-49B5-AAFC-510734D74B38}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="chrome" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="1" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageAngelegt" Key="{794DE190-CF44-48C3-B22A-EE010A1567E2}">
+								<Image FileName="20162934" Left="8" Top="88" Right="986" Bottom="900" />
+								<TypeInfo Item0="{8EFDA5DC-FE14-46C5-AE7E-8A601F55A7B8}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="file:///C:/TEST/Showcase_Gui/angelegt.html" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="cell" Key="{6EA89EB0-9464-4756-A4DC-32D7C3E49789}">
+										<Image FileName="20162934" Left="348" Top="256" Right="646" Bottom="275" />
+										<TypeInfo Item0="{E6FA705D-F14E-4B7E-94E4-0EBBC9CFD858}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//td[.=&apos;Kunde erfolgreich angelegt!&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//tr[3]/td" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="win32calc" Owner="{13BE8BA7-0D00-41AC-B0C9-CB3D6578FE2E}">
+			<Child Name="wndCalculator" Owner="{A8094284-273B-4EA4-8483-2556AF292EBF}">
+				<Child Name="CalcFrame" Owner="{1A2D93EA-0045-4E10-8561-3E8047D3EE44}">
+					<Child Name="page32770" Owner="{CC0F8DF9-0CCB-46A0-B4F0-5F9601899EA3}">
+						<Child Name="Item" Owner="{71F879F0-504F-400C-B899-249E13771A26}" />
+						<Child Name="Item2" Owner="{913CB16B-EBD5-4C28-B800-16E0C0EA3380}" />
+					</Child>
+					<Child Name="page327702" Owner="{727C869D-4311-4997-9203-F639A99550DF}">
+						<Child Name="btn" Owner="{B0FD6851-89B3-4404-9C8F-A54883BFDE58}" />
+						<Child Name="btn2" Owner="{4121CCDD-0633-4A1C-873C-0902F19604F3}" />
+						<Child Name="btn3" Owner="{E47B45C5-415F-438B-8AFA-7D396FDCFED2}" />
+						<Child Name="btn4" Owner="{44E3B6C2-9E61-411C-97AB-92CACD474C7C}" />
+						<Child Name="btn5" Owner="{63DC53B0-73B1-43C0-BF8A-C39CF3A93CC8}" />
+						<Child Name="btn6" Owner="{C875C1D5-72E1-408B-8F9F-F35057D5E786}" />
+						<Child Name="btn7" Owner="{F3A045B5-B564-4761-8A84-5977B806354B}" />
+						<Child Name="btn8" Owner="{66654A36-32FF-449C-9FFB-922E5E20C91E}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{4D74ECBF-09C2-4BD7-89DB-716B8F157AAC}">
+			<Child Name="BrowserWindow" Owner="{E5DAF689-5D0F-4C7A-A61B-A4D067237E76}" />
+			<Child Name="pageIndex" Owner="{5CDEC580-AAB9-4555-B856-51F4069436BF}">
+				<Child Name="formFlogin" Owner="{B33B311E-2517-4B12-8752-AC4713452538}">
+					<Child Name="textboxBenutzer" Owner="{FA8E1880-4AC5-4241-939D-BD4C8622899B}" />
+					<Child Name="passwordboxPasswort" Owner="{221A006D-9EE3-4E77-8358-49439BB109DE}" />
+					<Child Name="submitbuttonLogin" Owner="{8753F450-11A5-4D1D-82B6-95FC9A9A6C30}" />
+				</Child>
+			</Child>
+			<Child Name="pageAnlegen" Owner="{0A8CBA81-EA83-485E-AD48-A009133E9BA7}">
+				<Child Name="formKundenanlegen" Owner="{E3FACF21-69B8-4DC9-9FCB-9D29623A4CD2}">
+					<Child Name="selectAnrede" Owner="{48FA313F-8BF7-497C-AFBD-A5AF4F6D5AFE}" />
+					<Child Name="textboxNachname" Owner="{C306C331-1D07-452D-8048-F19C6A091294}" />
+					<Child Name="textboxVorname" Owner="{4DF866AD-FD7E-41CA-8D5A-250413832360}" />
+					<Child Name="textboxStrasse" Owner="{F04FCA6F-81FA-442B-8520-25170377568C}" />
+					<Child Name="textboxPlz" Owner="{B7D2A70B-13E9-4B55-84FD-81D3B12D12E6}" />
+					<Child Name="textboxOrt" Owner="{F59C6B84-23C0-4DDA-B2D9-50A89C196821}" />
+					<Child Name="textboxLand" Owner="{7E334C2A-922D-41F6-84E0-95E6FFF50AA2}" />
+					<Child Name="buttonKundenAnlegen" Owner="{F01C4FDF-CFC3-47E0-B3AC-B50B4C8AA727}" />
+				</Child>
+			</Child>
+			<Child Name="wndChrome_WidgetWin_1" Owner="{CD0B3E90-B437-40A5-AA8B-671AF71F6335}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{AF422879-2207-4E01-B03B-68A35C438F52}" />
+			</Child>
+			<Child Name="pageAngelegt" Owner="{8B4C2848-BE01-43D1-B946-09AFC69DFF02}">
+				<Child Name="buttonLogout" Owner="{53948AC8-DBE2-4BA8-94E0-EF012E84C37D}" />
+			</Child>
+		</Child>
+		<Child Name="chrome" Owner="{C6F201CB-A76F-4A88-A5A3-6CC4A7190EA7}">
+			<Child Name="pageAngelegt" Owner="{794DE190-CF44-48C3-B22A-EE010A1567E2}">
+				<Child Name="cell" Owner="{6EA89EB0-9464-4756-A4DC-32D7C3E49789}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
