@@ -10,8 +10,7 @@
   Set wndChrome_WidgetWin_1 = browser.wndChrome_WidgetWin_1
   Call wndChrome_WidgetWin_1.Keys("^v")
   Call wndChrome_WidgetWin_1.Keys("^v")
-  Call Browsers.Item(btChrome).Navigate("file:///C:/TEST/Showcase_Gui/index.html")
-  Call browser.BrowserWindow.Position(400, 127, 994, 908)
+  Call Browsers.Item(btChrome).Navigate("file:///C:/agent/_work/2/s/GUI/Showcase_Gui/index.html")
   Set form = browser.pageIndex.formFlogin
   Set textbox = form.textboxBenutzer
   Call textbox.Click
@@ -47,4 +46,5 @@
   Call page.Wait
   Call aqObject.CheckProperty(Aliases.chrome.pageAngelegt.FindElement("//td[.='Kunde erfolgreich angelegt!']"), "contentText", cmpEqual, "Kunde erfolgreich angelegt!")
   Call page.buttonLogout.ClickButton
+  Call TestedApps.chrome.Close
 End Sub

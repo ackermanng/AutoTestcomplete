@@ -248,7 +248,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
-										<Value Value="file:///C:/TEST/Showcase_Gui/index.html" />
+										<Value Value="*index.html" />
 									</Property>
 								</Properties>
 								<Children>
@@ -333,7 +333,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
-										<Value Value="file:///C:/TEST/Showcase_Gui/anlegen.html" />
+										<Value Value="*anlegen.html" />
 									</Property>
 								</Properties>
 								<Children>
@@ -512,7 +512,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
-										<Value Value="file:///C:/TEST/Showcase_Gui/angelegt.html" />
+										<Value Value="*angelegt.html" />
 									</Property>
 								</Properties>
 								<Children>
@@ -557,7 +557,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
-										<Value Value="file:///C:/TEST/Showcase_Gui/angelegt.html" />
+										<Value Value="*angelegt.html" />
 									</Property>
 								</Properties>
 								<Children>
